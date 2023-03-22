@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Armansaqarchi&theme=dracula&border_radius=4.9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Armansaqarchi&theme=one-dark-pro&hide_border=true)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armansaqarchi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
