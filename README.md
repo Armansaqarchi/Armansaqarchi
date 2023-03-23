@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,linux&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python&perline=10)](https://skillicons.dev)
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=spring,django,hibernate&perline=10)](https://skillicons.dev)
 ### Databases
