@@ -27,21 +27,18 @@ Here are some ideas to get you started:
 
 ### About me
 
+##### Currently focusing on the Django framework 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Armansaqarchi&theme=one-dark-pro&hide_border=true)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armansaqarchi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Skills
+## Tech
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,django,docker,git,github,linux,postgres,postman,sqlite&perline=6)](https://skillicons.dev) 
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python&perline=10)](https://skillicons.dev)
-### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=spring,django,hibernate&perline=10)](https://skillicons.dev)
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=postgres&perline=10)](https://skillicons.dev)
 
 </div>
 
