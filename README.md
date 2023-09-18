@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ## Tech
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,django,docker,git,github,linux,postgres,postman,sqlite&perline=12)](https://skillicons.dev) 
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,django,docker,git,github,linux,postgres,postman,sqlite&perline=12" width = 90%/>
 
 <br>
 
