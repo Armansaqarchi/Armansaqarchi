@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<div align="left">
+<div align="center">
 
 ## Arman sagharchi
 
@@ -32,21 +32,28 @@ Here are some ideas to get you started:
  Never let a computer know you are in a hurry <br>
  </p>
 
-![throphy](https://github-profile-trophy.vercel.app/?username=Armansaqarchi&theme=dark)
+<img src="https://github-profile-trophy.vercel.app/?username=Armansaqarchi&theme=onedark&row=1" alt="Trophy" width="50%">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Armansaqarchi&theme=one-dark-pro&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Armansaqarchi&theme=one-dark-pro&hide_border=true" alt="GitHub Streak" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armansaqarchi&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="32.4%">
+</p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armansaqarchi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armansaqarchi&theme=tokyonight&show_icons=true)
 
 
 ## Tech
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,django,docker,git,github,linux,postgres,postman,sqlite&perline=6)](https://skillicons.dev) 
 
+<br>
 
+### Contact me
+
+<p><a href=https://www.linkedin.com/in/arman-sagharchi-471854286><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/arman.sagharchi?igshid=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 
 </div>
