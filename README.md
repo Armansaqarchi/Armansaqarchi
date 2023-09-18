@@ -32,11 +32,11 @@ Here are some ideas to get you started:
  Never let a computer know you are in a hurry <br>
  </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Armansaqarchi&theme=onedark&row=1" alt="Trophy" width="50%">
+<img src="https://github-profile-trophy.vercel.app/?username=Armansaqarchi&theme=onedark&row=1" alt="Trophy" width="91.5%">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Armansaqarchi&theme=one-dark-pro&hide_border=true" alt="GitHub Streak" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armansaqarchi&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="32.4%">
+  <img src="https://streak-stats.demolab.com?user=Armansaqarchi&theme=one-dark-pro&hide_border=true" alt="GitHub Streak" width="53%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armansaqarchi&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="38.2%">
 </p>
 
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ## Tech
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,django,docker,git,github,linux,postgres,postman,sqlite&perline=6)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,django,docker,git,github,linux,postgres,postman,sqlite&perline=12)](https://skillicons.dev) 
 
 <br>
 
