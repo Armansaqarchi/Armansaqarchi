@@ -27,10 +27,6 @@ Here are some ideas to get you started:
 
 ### About me
 
- <p>Django developer<br>
- Bachelor Student at AUT -> CE<br>
- Never let a computer know you are in a hurry <br>
- </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Armansaqarchi&theme=onedark&row=1" alt="Trophy" width="91.5%">
 
