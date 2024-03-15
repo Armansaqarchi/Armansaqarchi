@@ -23,10 +23,16 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-## Arman sagharchi
+# Arman sagharchi
 
-### About me
+## About me
 
+### Going inside a fiber cable
+
+
+<br>
+<br>
+<br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Armansaqarchi&theme=onedark&row=1" alt="Trophy" width="91.5%">
 
@@ -41,7 +47,7 @@ Here are some ideas to get you started:
 
 ## Tech
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,django,docker,git,github,linux,postgres,postman,sqlite&perline=12" width = 90%/>
+<img src="https://skillicons.dev/icons?i=go,graphql,elasticsearch,django,docker,git,linux,postgres&perline=12" width = 90%/>
 
 <br>
 
