@@ -1,75 +1,66 @@
 
-
-<!--
-**Armansaqarchi/Armansaqarchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-
-
 <div align="center">
 
-# Arman sagharchi
+# Arman Sagharchi
 
-## About me
+### Backend Engineer at [Snapp](https://snapp.ir)
 
-### Going inside a fiber cable
+Building scalable systems. Exploring distributed architectures and decentralized technologies.
 
-
-<br>
-<br>
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Armansaqarchi&theme=onedark&row=1" alt="Trophy" width="91.5%">
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Armansaqarchi&theme=one-dark-pro&hide_border=true" alt="GitHub Streak" width="53%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armansaqarchi&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="38.2%">
-</p>
-
-
-
-
-
-## Tech
-
-<img src="https://skillicons.dev/icons?i=go,graphql,elasticsearch,django,docker,git,linux,postgres&perline=12" width = 90%/>
-
-<br>
-
-### Contact me
-
-<p><a href=https://www.linkedin.com/in/arman-sagharchi-471854286><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/arman.sagharchi?igshid=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arman.saqarchi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arman-sagharchi-471854286)
 
 </div>
 
+---
 
+## About Me
 
+I'm a backend engineer at **Snapp**, primarily working with Go and backend technologies.
 
+My interests lie in designing highly scalable systems, exploring distributed architectures, and understanding decentralized technologies such as blockchain.
 
+I'm particularly interested in the engineering challenges behind building reliable, efficient, and scalable software systems.
 
+## Tech Stack
 
+**Languages**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python" alt="Go and Python"/>
+</p>
 
+**Databases & Infrastructure**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=redis,mysql" alt="Redis and MySQL"/>
+</p>
 
+**Frameworks & Tools**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=airflow,grafana,prometheus,docker,linux,git" alt="Airflow, Grafana, Prometheus, Docker, Linux, and Git"/>
+</p>
 
+---
 
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Armansaqarchi&theme=onedark&row=1" alt="GitHub Trophies" width="91.5%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Armansaqarchi&theme=one-dark-pro&hide_border=true" alt="GitHub Streak" width="53%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armansaqarchi&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages" width="38.2%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*Always learning. Always building.*
+
+</div>
