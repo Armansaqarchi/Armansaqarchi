@@ -16,7 +16,6 @@ Building scalable systems. Exploring distributed architectures and decentralized
 
 ## About Me
 
-I'm a backend engineer at **Snapp**, primarily working with Go and backend technologies.
 
 My interests lie in designing highly scalable systems, exploring distributed architectures, and understanding decentralized technologies such as blockchain.
 
